@@ -4,7 +4,32 @@
       "id": 1,
       "title": "Fruits",
       "description": "fruits categories",
-      "avatar_url": "http://data.com"
+      "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673315/fruits_fqm13q.jpg",
+      "products": [{}]
+    },
+    {
+      "id": 2,
+      "title": "Meats",
+      "description": "meats categories",
+      "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673446/meat_nyxrnd.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vegetables",
+      "description": "vegetables categories",
+      "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673558/vegetables_d1obc3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cereals",
+      "description": "cereals categories",
+      "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673771/cereals_gu9jbc.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Nuts",
+      "description": "nuts categories",
+      "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673931/nuts_a6oz4b.jpg"
     }
   ]
 }
