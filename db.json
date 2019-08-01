@@ -1,11 +1,64 @@
 {
+  "markets": [
+    { "id": 1, "name": "Market 1", "lat": "-2.345445", "long": "32.567667" },
+    {
+      "id": 2,
+      "name": "Market 2",
+      "lat": "-1.345445",
+      "long": "32.567667"
+    },
+    {
+      "id": 3,
+      "name": "Market 3",
+      "lat": "2.345445",
+      "long": "32.567667"
+    },
+    {
+      "id": 4,
+      "name": "Market 4",
+      "lat": "-1.345445",
+      "long": "42.567667"
+    }
+  ],
   "categories": [
     {
       "id": 1,
       "title": "Fruits",
       "description": "fruits categories",
       "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673315/fruits_fqm13q.jpg",
-      "products": [{}]
+      "products": [
+        {
+          "id": 1,
+          "category_id": 1,
+          "name": "Bananas",
+          "description": "Fresh bananas at the best price",
+          "productUnit": [{}]
+        },
+        {
+          "id": 2,
+          "category_id": 1,
+          "name": "Oranges",
+          "description": "Fresh Oranges at the best price"
+        },
+        {
+          "id": 3,
+          "category_id": 1,
+          "name": "Mangoes",
+          "description": "Fresh Mangoes at the best price"
+        },
+        {
+          "id": 4,
+          "category_id": 1,
+          "name": "Grapes",
+          "description": "Fresh Grapes at the best price"
+        },
+        {
+          "id": 5,
+          "category_id": 1,
+          "name": "Plams",
+          "description": "Fresh Plums at the best price"
+        }
+      ]
     },
     {
       "id": 2,
