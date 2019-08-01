@@ -1,0 +1,10 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Fruits",
+      "description": "fruits categories",
+      "avatar_url": "http://data.com"
+    }
+  ]
+}
