@@ -338,5 +338,62 @@
     }
   ],
   "orders": [],
-  "orderItem": []
+  "orderItem": [],
+  "products": [
+    {
+      "type": "collection",
+      "resourceType": "products",
+      "links": {
+        "self": "http://testserver/api/v1/products/?category_id=1%2C2"
+      },
+      "actions": {},
+      "pagination": {
+        "first": "http://testserver/api/v1/products/?category_id=1%2C2",
+        "previous": "None",
+        "next": "None",
+        "last": "http://testserver/api/v1/products/?page=1&category_id=1%2C2",
+        "limit": 100,
+        "total": 5,
+        "partial": false
+      },
+      "data": [
+        {
+          "id": 1,
+          "category_id": 1,
+          "name": "Bananas",
+          "description": "Fresh bananas at the best price",
+          "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564674864/bananas_gfjena.jpg",
+          "productUnit": [{}]
+        },
+        {
+          "id": 2,
+          "category_id": 1,
+          "name": "Oranges",
+          "description": "Fresh Oranges at the best price",
+          "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564674937/oranges_zio0uy.jpg"
+        },
+        {
+          "id": 3,
+          "category_id": 1,
+          "name": "Mangoes",
+          "description": "Fresh Mangoes at the best price",
+          "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564675018/mamngoes_ozeojj.jpg"
+        },
+        {
+          "id": 4,
+          "category_id": 1,
+          "name": "Grapes",
+          "description": "Fresh Grapes at the best price",
+          "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564675060/grapes_ve6ifl.jpg"
+        },
+        {
+          "id": 5,
+          "category_id": 1,
+          "name": "Plams",
+          "description": "Fresh Plums at the best price",
+          "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564675129/plum_apqkon.png"
+        }
+      ]
+    }
+  ]
 }
