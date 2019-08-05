@@ -34,7 +34,7 @@
     },
     {
       "id": 2,
-      "title": "Meats",
+      "title": "Meat",
       "description": "meats categories",
       "avatar_url": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564673446/meat_nyxrnd.jpg"
     },
@@ -95,6 +95,34 @@
       "name": "Plams",
       "description": "Fresh Plums at the best price",
       "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564675129/plum_apqkon.png"
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "name": "Chicken",
+      "description": "Chicken Meat at the best price",
+      "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1565003240/chicken_w8h4dn.jpg"
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "name": "Beef",
+      "description": "Beef at the best price",
+      "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1565003533/beef_j23gs1.webp"
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "name": "Fish",
+      "description": "Fish Meat at the best price",
+      "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1565003679/fish_cp49o0.jpg"
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "name": "Pork",
+      "description": "Pork at the best price",
+      "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1565003785/pork_soq6ny.jpg"
     }
   ]
 }
