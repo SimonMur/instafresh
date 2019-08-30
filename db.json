@@ -65,8 +65,7 @@
       "category_id": 1,
       "name": "Bananas",
       "description": "Fresh bananas at the best price",
-      "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564674864/bananas_gfjena.jpg",
-      "productUnit": [{}]
+      "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1564674864/bananas_gfjena.jpg"
     },
     {
       "id": 2,
@@ -118,11 +117,53 @@
       "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1565003679/fish_cp49o0.jpg"
     },
     {
-      "id": 8,
+      "id": 9,
       "category_id": 2,
       "name": "Pork",
       "description": "Pork at the best price",
       "product_image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1565003785/pork_soq6ny.jpg"
+    }
+  ],
+  "product_type": [
+    {
+      "id": 1,
+      "name": "Cavendish Bananas Per Bunch(6)",
+      "product_id": 1,
+      "description": "Cavendish Bananas bananas per bunch with  .......",
+      "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187210/banana_rmbcng.jpg",
+      "is_recommended": true
+    },
+    {
+      "id": 2,
+      "name": "Imported Tangerines (Per Kg)",
+      "product_id": 2,
+      "description": "Imported Tangerines best in the .....",
+      "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187593/Tangerines_ayjzz0.jpg",
+      "is_recommended": true
+    },
+    {
+      "id": 3,
+      "name": "Green Bananas Per Kg",
+      "product_id": 1,
+      "description": "Green Bananas bananas per bunch with  .......",
+      "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187326/Banana3_k3oqvc.jpg",
+      "is_recommended": true
+    },
+    {
+      "id": 4,
+      "name": "Fresh Kent Mangoes(Per KG)",
+      "product_id": 3,
+      "description": "Fresh Kent Mangoes .....",
+      "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187948/mangoes_yykkzd.jpg",
+      "is_recommended": true
+    },
+    {
+      "id": 5,
+      "name": "Red Plums Per Bunch",
+      "product_id": 5,
+      "description": "Red Plums Per Bunch",
+      "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567188199/plums_dq4usc.jpg",
+      "is_recommended": true
     }
   ]
 }
