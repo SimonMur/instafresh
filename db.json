@@ -126,6 +126,7 @@
     {
       "id": 1,
       "name": "Cavendish Bananas Per Bunch(6)",
+      "category_id": 1,
       "product_id": 1,
       "description": "Cavendish Bananas bananas per bunch with  .......",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187210/banana_rmbcng.jpg",
@@ -138,6 +139,7 @@
     {
       "id": 2,
       "name": "Imported Tangerines (Per Kg)",
+      "category_id": 1,
       "product_id": 2,
       "description": "Imported Tangerines best in the .....",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187593/Tangerines_ayjzz0.jpg",
@@ -150,6 +152,7 @@
     {
       "id": 3,
       "name": "Green Bananas Bunch",
+      "category_id": 1,
       "product_id": 1,
       "description": "Green Bananas bananas per bunch with  .......",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187326/Banana3_k3oqvc.jpg",
@@ -162,6 +165,7 @@
     {
       "id": 4,
       "name": "Fresh Kent Mangoes(Per KG)",
+      "category_id": 1,
       "product_id": 3,
       "description": "Fresh Kent Mangoes .....",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187948/mangoes_yykkzd.jpg",
@@ -174,6 +178,7 @@
     {
       "id": 5,
       "name": "Red Plums Per Kg",
+      "category_id": 1,
       "product_id": 5,
       "description": "Red Plums Per Bunch",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567188199/plums_dq4usc.jpg",
