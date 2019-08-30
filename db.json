@@ -131,7 +131,11 @@
       "product_id": 1,
       "description": "Cavendish Bananas bananas per bunch with  .......",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187210/banana_rmbcng.jpg",
-      "is_recommended": true
+      "is_recommended": true,
+      "regular_price": 500,
+      "sale_price": 450,
+      "market": 1,
+      "measure": "Bunch"
     },
     {
       "id": 2,
@@ -139,15 +143,23 @@
       "product_id": 2,
       "description": "Imported Tangerines best in the .....",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187593/Tangerines_ayjzz0.jpg",
-      "is_recommended": true
+      "is_recommended": true,
+      "regular_price": 5000,
+      "sale_price": 4650,
+      "market": 2,
+      "measure": "KG"
     },
     {
       "id": 3,
-      "name": "Green Bananas Per Kg",
+      "name": "Green Bananas Bunch",
       "product_id": 1,
       "description": "Green Bananas bananas per bunch with  .......",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187326/Banana3_k3oqvc.jpg",
-      "is_recommended": true
+      "is_recommended": true,
+      "regular_price": 800,
+      "sale_price": 680,
+      "market": 1,
+      "measure": "Bunch"
     },
     {
       "id": 4,
@@ -155,15 +167,23 @@
       "product_id": 3,
       "description": "Fresh Kent Mangoes .....",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567187948/mangoes_yykkzd.jpg",
-      "is_recommended": true
+      "is_recommended": true,
+      "regular_price": 2400,
+      "sale_price": 2100,
+      "market": 1,
+      "measure": "KG"
     },
     {
       "id": 5,
-      "name": "Red Plums Per Bunch",
+      "name": "Red Plums Per Kg",
       "product_id": 5,
       "description": "Red Plums Per Bunch",
       "image": "https://res.cloudinary.com/hurpcuiow/image/upload/v1567188199/plums_dq4usc.jpg",
-      "is_recommended": true
+      "is_recommended": true,
+      "regular_price": 1000,
+      "sale_price": 800,
+      "market": 1,
+      "measure": "KG"
     }
   ]
 }
